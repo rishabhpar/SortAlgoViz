@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SortAlgoViz/static/css/main.e32cf80f.chunk.css",
+    "main.js": "/SortAlgoViz/static/js/main.71e389eb.chunk.js",
+    "main.js.map": "/SortAlgoViz/static/js/main.71e389eb.chunk.js.map",
+    "runtime-main.js": "/SortAlgoViz/static/js/runtime-main.461a05b2.js",
+    "runtime-main.js.map": "/SortAlgoViz/static/js/runtime-main.461a05b2.js.map",
+    "static/js/2.20b2d1e5.chunk.js": "/SortAlgoViz/static/js/2.20b2d1e5.chunk.js",
+    "static/js/2.20b2d1e5.chunk.js.map": "/SortAlgoViz/static/js/2.20b2d1e5.chunk.js.map",
+    "index.html": "/SortAlgoViz/index.html",
+    "precache-manifest.8f27af11739814e7c4be7e4ee7b1447c.js": "/SortAlgoViz/precache-manifest.8f27af11739814e7c4be7e4ee7b1447c.js",
+    "service-worker.js": "/SortAlgoViz/service-worker.js",
+    "static/css/main.e32cf80f.chunk.css.map": "/SortAlgoViz/static/css/main.e32cf80f.chunk.css.map",
+    "static/js/2.20b2d1e5.chunk.js.LICENSE.txt": "/SortAlgoViz/static/js/2.20b2d1e5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.461a05b2.js",
+    "static/js/2.20b2d1e5.chunk.js",
+    "static/css/main.e32cf80f.chunk.css",
+    "static/js/main.71e389eb.chunk.js"
+  ]
+}
