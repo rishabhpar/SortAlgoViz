@@ -135,6 +135,10 @@ export default class SortingVisualizer extends React.Component {
     }
   }
 
+  goToGraph(){
+    window.location.href = "https://rishabhpar.github.io/GraphAlgoViz/";
+  }
+
   render() {
     const {array} = this.state;
 
@@ -155,6 +159,7 @@ export default class SortingVisualizer extends React.Component {
         <button onClick={() => this.selectionSort()}>Selection Sort</button>
         <button onClick={() => this.insertionSort()}>Insertion Sort</button>
         <button onClick={() => this.bubbleSort()}>Bubble Sort</button>
+        <button onClick={() => this.goToGraph()}> Visualize Common Graph Path Algorithms</button>
       </div>
     );
   }
